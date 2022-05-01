@@ -29,6 +29,7 @@ class LogFileTracker:
 
 def import_handler():
     """Install 3rd parties packages via pip"""
+    print('\n', icon('info'), 'Installing new Python packages', '\n')
     packages = ['log-symbols', 'pandas', 'halo']
 
     for package in packages:
