@@ -1,6 +1,6 @@
 Script to extract data from epic-server log and files
 
-###HOW TO USE:
+### HOW TO USE:
 Download and unpack in directory with `*.log` files
 
 For windows run `start_analyser.bat`
